@@ -1,0 +1,3 @@
+﻿Borrower's Name,Property Address,Loan Amount,Interest Rate,Loan Term,Monthly Payment,Lender Name,Mortgage Type,Closing Date,Original Loan Date,File Path,Time Stamp
+Michael Jones and Mary Stone,"456 Somewhere Ave Anytown, ST 12345","$162,000",3.875%,30 years,$761.78,Ficus Bank,Fixed Rate,4/15/2013,4/15/2013,F:\OneDrive\Documents\UiPath\MortgageDocument_Extraction\Data\Input\Mortgage 1.pdf,04/13/2024 19:03:17
+Tim David and Alex Brown,"317 Davinci Ave Anytown, ST 54321","$178,000",4.185%,40 years,$542.78,LIB Bank,Fixed Rate,8/18/2023,6/15/2020,F:\OneDrive\Documents\UiPath\MortgageDocument_Extraction\Data\Input\Mortgage 2.pdf,04/13/2024 19:03:22
