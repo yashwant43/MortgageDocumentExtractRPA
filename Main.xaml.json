@@ -4,18 +4,5 @@
   "HelpLink": null,
   "Color": null,
   "OriginalIconFileName": null,
-  "Arguments": [
-    {
-      "Name": "str_InputFolder",
-      "DisplayName": "str_InputFolder",
-      "Category": null,
-      "Tooltip": null,
-      "Placeholder": "F:\\OneDrive\\Documents\\UiPath\\MortgageDocument_Extraction\\Data\\Input",
-      "Widget": null,
-      "IsRequired": false,
-      "IsPrincipal": true,
-      "ArgumentType": 0,
-      "DataSourceItems": null
-    }
-  ]
+  "Arguments": []
 }
