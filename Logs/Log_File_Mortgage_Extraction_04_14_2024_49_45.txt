@@ -1,0 +1,9 @@
+04/14/2024 11:49:45 Log File Created: Log_File_Mortgage_Extraction_04_14_2024_49_45.txt
+04/14/2024 11:49:45 Taxonomy Loaded
+04/14/2024 11:49:45 File Name for Extraction: F:\OneDrive\Documents\UiPath\MortgageDocument_Extraction\Data\Input\Mortgage 2.pdf
+04/14/2024 11:49:50 Document Digitized using Omni OCR
+04/14/2024 11:49:50 Document is classified
+04/14/2024 11:49:50 Required fields are extracted
+04/14/2024 11:49:50 Results are exported
+04/14/2024 11:49:50 Results saved to Data\Output\Output.csv 
+04/14/2024 11:49:50 Process ended
