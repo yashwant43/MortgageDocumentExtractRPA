@@ -8,6 +8,7 @@
     "UiPath.Excel.Activities": "[2.23.2-preview]",
     "UiPath.IntelligentOCR.Activities": "[6.5.0]",
     "UiPath.Mail.Activities": "[1.22.1]",
+    "UiPath.MicrosoftOffice365.Activities": "[2.5.9]",
     "UiPath.OmniPage.Activities": "[1.17.0]",
     "UiPath.System.Activities": "[24.3.0]",
     "UiPath.Testing.Activities": "[24.2.0-preview]",
@@ -17,7 +18,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.3",
+  "projectVersion": "1.0.4",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
